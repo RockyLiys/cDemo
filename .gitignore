@@ -1,5 +1,9 @@
 # Prerequisites
 *.d
+*.dev
+*.exe
+*.win
+*.layout
 
 # Object files
 *.o
